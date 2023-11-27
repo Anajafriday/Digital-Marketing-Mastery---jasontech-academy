@@ -1,0 +1,49 @@
+{
+  "name": "digital-marketing-jason-tech-academy",
+  "version": "1.0.0",
+  "description": "dive deep into word of digital marketing with jason tech academy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "digital",
+    "marketing",
+    "digital marketing",
+    "facbook ads",
+    "instagram ads",
+    "data",
+    "analysis",
+    "learn",
+    "digital",
+    "marketing",
+    "digital",
+    "marketing",
+    "2024",
+    "social media marketing",
+    "website",
+    "optimization",
+    "SEM",
+    "search",
+    "engine",
+    "marketing",
+    "e-comerce",
+    "e-comerce",
+    "marketing",
+    "mobile",
+    "marketing",
+    "Email",
+    "Email",
+    "marketing",
+    "pay-per",
+    "click",
+    "ads",
+    "advertisinfg",
+    "advert"
+  ],
+  "author": "friday anaja",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.3.5"
+  }
+}
